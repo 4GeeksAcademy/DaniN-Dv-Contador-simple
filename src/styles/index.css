@@ -14,3 +14,26 @@
     background-color: rgb(2, 2, 2);
     border-radius: 7px;
 }
+
+.regresivo {
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    margin: 2% 30%;
+}
+.regresivo > *{
+    font-size: 1.2rem;
+}
+
+
+.stop-restart {
+    margin-top: 2%;
+    margin-left: 2%;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.stop-restart > button {
+    font-size: 1.2rem;
+}
